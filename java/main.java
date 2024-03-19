@@ -2,7 +2,7 @@ package java;
 // main.java
 // author Jakob Grätz (@jakobgraetz)
 // copyright Jakob Grätz (@jakobgraetz)
-// version 18/03/2024 (DD/MM/YYYY)
+// version 19/03/2024 (DD/MM/YYYY)
 // description Implementation of my maths repository in Java.
 
 public class main {

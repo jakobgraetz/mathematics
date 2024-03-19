@@ -1,7 +1,7 @@
 # main.py
 # author Jakob Grätz (@jakobgraetz)
 # copyright Jakob Grätz (@jakobgraetz)
-# version 18/03/2024 (DD/MM/YYYY)
+# version 19/03/2024 (DD/MM/YYYY)
 # description Implementation of my maths repository in Python.
 
 def simple_sum(first_summand: float, second_summand: float):

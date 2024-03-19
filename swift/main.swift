@@ -1,7 +1,7 @@
 // main.swift
 // author Jakob Grätz (@jakobgraetz)
 // copyright Jakob Grätz (@jakobgraetz)
-// version 18/03/2024 (DD/MM/YYYY)
+// version 19/03/2024 (DD/MM/YYYY)
 // description Implementation of my maths repository in Swift.
 
 func simple_sum (first_summand: Float64, second_summand: Float64) -> Float64 {
