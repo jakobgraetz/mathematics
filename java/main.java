@@ -6,6 +6,12 @@ package java;
 // version 19/03/2024 (DD/MM/YYYY)
 // description Implementation of my maths repository in Java.
 
+class DivisionByZeroException extends Exception {
+    public DivisionByZeroException(String message) {
+        super(message);
+    }
+}
+
 public class main {
     public static void main (String[] Args) {
         
@@ -23,7 +29,11 @@ public class main {
         return first_factor * second_factor;
     }
     
-    public static Double simple_quotient (Double numerator, Double denominator) {
-        return numerator / denominator;
+    public static Double simple_quotient (Double numerator, Double denominator) throws DivisionByZeroException {
+        if (denominator != 0.0) {
+            return numerator / denominator;
+        } else {
+            throw new DivisionByZeroException("Division by zero is not allowed");
+        }
     }
 }
