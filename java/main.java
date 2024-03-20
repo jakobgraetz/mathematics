@@ -1,4 +1,5 @@
 package java;
+
 // main.java
 // author Jakob Grätz (@jakobgraetz)
 // copyright 2024 - Jakob Grätz (@jakobgraetz)

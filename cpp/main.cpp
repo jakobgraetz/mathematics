@@ -1,3 +1,5 @@
+#include <iostream>
+
 // main.cpp
 // author Jakob Grätz (@jakobgraetz)
 // copyright 2024 - Jakob Grätz (@jakobgraetz)
