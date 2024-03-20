@@ -4,6 +4,10 @@
 // version 19/03/2024 (DD/MM/YYYY)
 // description Implementation of my maths repository in Swift.
 
+enum DivisionError: Error {
+    case divisionByZero
+}
+
 func simple_sum (first_summand: Float64, second_summand: Float64) -> Float64 {
     return first_summand + second_summand
 }
@@ -16,6 +20,10 @@ func simple_product (first_factor: Float64, second_factor: Float64) -> Float64 {
     return first_factor * second_factor
 }
 
-func simple_quotient (numerator: Float64, denominator: Float64) -> Float64 {
+func simple_quotient (numerator: Float64, denominator: Float64) throws -> Float64 {
+    guard denominator != 0 else {
+        throw DivisionError.divisionByZero
+    }
+
     return numerator / denominator
 }
