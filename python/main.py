@@ -13,7 +13,7 @@ def simple_sum(first_summand: float, second_summand: float) -> float:
     return first_summand + second_summand
 
 # Difference Function
-def simple_difference(minuend: float, subtrahend: float):
+def simple_difference(minuend: float, subtrahend: float) -> float:
     return minuend - subtrahend
 
 # Product Function
