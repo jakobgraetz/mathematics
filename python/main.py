@@ -9,7 +9,7 @@ class DivisionByZeroError(Exception):
     pass
 
 # Sum Function
-def simple_sum(first_summand: float, second_summand: float):
+def simple_sum(first_summand: float, second_summand: float) -> float:
     return first_summand + second_summand
 
 # Difference Function
