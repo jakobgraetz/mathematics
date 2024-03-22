@@ -15,3 +15,10 @@ This is my implementation of mathematical operations, functions and concepts in 
 - Swift
 - Python
 - Maybe more in the future ...
+
+# Roadmap
+
+- Implement more arithmetic operations
+- Implement basic algebra
+- Implement functions
+- Implement series
