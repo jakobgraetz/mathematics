@@ -21,7 +21,7 @@ def simple_product(first_factor: float, second_factor: float) -> float:
     return first_factor * second_factor
 
 # Division Function
-def simple_quotient (numerator: float, denominator: float):
+def simple_quotient (numerator: float, denominator: float) -> float:
     if denominator != 0:
         return numerator / denominator
     else:
