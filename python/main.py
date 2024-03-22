@@ -17,7 +17,7 @@ def simple_difference(minuend: float, subtrahend: float) -> float:
     return minuend - subtrahend
 
 # Product Function
-def simple_product(first_factor: float, second_factor: float):
+def simple_product(first_factor: float, second_factor: float) -> float:
     return first_factor * second_factor
 
 # Division Function
