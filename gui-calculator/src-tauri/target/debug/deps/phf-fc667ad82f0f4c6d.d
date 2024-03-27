@@ -1,0 +1,11 @@
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libphf-fc667ad82f0f4c6d.rmeta: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libphf-fc667ad82f0f4c6d.rlib: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/phf-fc667ad82f0f4c6d.d: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs
+
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/lib.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/map.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_map.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/ordered_set.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.11.2/src/set.rs:

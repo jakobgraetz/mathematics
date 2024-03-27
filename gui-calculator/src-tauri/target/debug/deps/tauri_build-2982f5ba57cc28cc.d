@@ -1,0 +1,10 @@
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libtauri_build-2982f5ba57cc28cc.rmeta: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libtauri_build-2982f5ba57cc28cc.rlib: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/tauri_build-2982f5ba57cc28cc.d: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml:

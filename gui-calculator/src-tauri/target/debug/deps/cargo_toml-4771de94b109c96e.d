@@ -1,0 +1,10 @@
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libcargo_toml-4771de94b109c96e.rmeta: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/libcargo_toml-4771de94b109c96e.rlib: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/jakob/Desktop/friendly-web-projects/open_source/maths/gui-calculator/src-tauri/target/debug/deps/cargo_toml-4771de94b109c96e.d: /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs:
+/Users/jakob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs:
